@@ -1,0 +1,974 @@
+Image Name,Detected Gender,Face Width,Face Height,Jaw Width,Face Ratio,Hair Feature,Facial Hair,LBP Value
+000001.jpg,Male,100,100,75.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000002.jpg,Male,111,111,83.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000005.jpg,Male,118,118,88.5,1.0,Short Hair or Bald,Facial Hair,1.0
+000006.jpg,Female,97,97,72.75,1.0,Long Hair,Facial Hair,1.0
+000007.jpg,Female,103,103,77.25,1.0,Long Hair,No Facial Hair,1.0
+000008.jpg,Female,92,92,69.0,1.0,Long Hair,No Facial Hair,0.9999999999999999
+000009.jpg,Female,109,109,81.75,1.0,Long Hair,Facial Hair,1.0
+000010.jpg,Male,100,100,75.0,1.0,Short Hair or Bald,Facial Hair,0.9999999999999999
+000011.jpg,Female,108,108,81.0,1.0,Long Hair,Facial Hair,0.9999999999999999
+000012.jpg,Female,110,110,82.5,1.0,Long Hair,Facial Hair,1.0
+000013.jpg,Male,113,113,84.75,1.0,Short Hair or Bald,Facial Hair,1.0
+000014.jpg,Female,107,107,80.25,1.0,Long Hair,No Facial Hair,1.0
+000015.jpg,Male,112,112,84.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000016.jpg,Female,107,107,80.25,1.0,Long Hair,Facial Hair,1.0
+000017.jpg,Male,113,113,84.75,1.0,Short Hair or Bald,No Facial Hair,1.0
+000018.jpg,Male,109,109,81.75,1.0,Short Hair or Bald,No Facial Hair,1.0
+000019.jpg,Male,97,97,72.75,1.0,Short Hair or Bald,No Facial Hair,1.0
+000020.jpg,Female,104,104,78.0,1.0,Long Hair,No Facial Hair,1.0
+000021.jpg,Male,98,98,73.5,1.0,Short Hair or Bald,Facial Hair,0.9999999999999999
+000022.jpg,Male,102,102,76.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000023.jpg,Female,113,113,84.75,1.0,Long Hair,No Facial Hair,1.0
+000024.jpg,Male,102,102,76.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000025.jpg,Male,105,105,78.75,1.0,Short Hair or Bald,Facial Hair,0.9999999999999999
+000026.jpg,Female,92,92,69.0,1.0,Long Hair,Facial Hair,1.0
+000027.jpg,Female,104,104,78.0,1.0,Long Hair,Facial Hair,1.0
+000028.jpg,Male,103,103,77.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000029.jpg,Male,89,89,66.75,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000029.jpg,Male,115,115,86.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000030.jpg,Male,95,95,71.25,1.0,Short Hair or Bald,Facial Hair,1.0
+000031.jpg,Male,118,118,88.5,1.0,Short Hair or Bald,Facial Hair,0.9999999999999999
+000032.jpg,Male,102,102,76.5,1.0,Short Hair or Bald,Facial Hair,1.0
+000033.jpg,Female,101,101,75.75,1.0,Long Hair,No Facial Hair,1.0
+000034.jpg,Female,86,86,64.5,1.0,Long Hair,Facial Hair,1.0
+000035.jpg,Female,107,107,80.25,1.0,Long Hair,Facial Hair,1.0
+000037.jpg,Female,98,98,73.5,1.0,Long Hair,No Facial Hair,1.0
+000038.jpg,Male,112,112,84.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000039.jpg,Male,103,103,77.25,1.0,Short Hair or Bald,Facial Hair,1.0
+000040.jpg,Female,106,106,79.5,1.0,Long Hair,Facial Hair,1.0
+000041.jpg,Male,132,132,99.0,1.0,Short Hair or Bald,Facial Hair,1.0
+000042.jpg,Female,114,114,85.5,1.0,Long Hair,Facial Hair,1.0
+000043.jpg,Male,117,117,87.75,1.0,Short Hair or Bald,Facial Hair,0.9999999999999999
+000044.jpg,Female,95,95,71.25,1.0,Long Hair,Facial Hair,1.0
+000045.jpg,Female,113,113,84.75,1.0,Long Hair,Facial Hair,1.0
+000046.jpg,Female,109,109,81.75,1.0,Long Hair,Facial Hair,1.0000000000000002
+000047.jpg,Female,104,104,78.0,1.0,Long Hair,Facial Hair,1.0
+000048.jpg,Female,111,111,83.25,1.0,Long Hair,Facial Hair,0.9999999999999999
+000049.jpg,Female,117,117,87.75,1.0,Long Hair,Facial Hair,1.0
+000050.jpg,Female,108,108,81.0,1.0,Long Hair,Facial Hair,0.9999999999999999
+000051.jpg,Male,106,106,79.5,1.0,Short Hair or Bald,Facial Hair,1.0
+000052.jpg,Female,107,107,80.25,1.0,Long Hair,Facial Hair,1.0
+000053.jpg,Female,119,119,89.25,1.0,Long Hair,Facial Hair,0.9999999999999999
+000054.jpg,Male,113,113,84.75,1.0,Short Hair or Bald,Facial Hair,1.0
+000055.jpg,Female,104,104,78.0,1.0,Long Hair,Facial Hair,1.0
+000056.jpg,Female,79,79,59.25,1.0,Long Hair,No Facial Hair,1.0
+000056.jpg,Female,81,81,60.75,1.0,Long Hair,Facial Hair,1.0
+000057.jpg,Female,106,106,79.5,1.0,Long Hair,No Facial Hair,1.0
+000058.jpg,Male,111,111,83.25,1.0,Short Hair or Bald,Facial Hair,1.0
+000059.jpg,Female,127,127,95.25,1.0,Long Hair,Facial Hair,0.9999999999999999
+000061.jpg,Female,86,86,64.5,1.0,Long Hair,No Facial Hair,1.0
+000062.jpg,Female,98,98,73.5,1.0,Long Hair,No Facial Hair,1.0
+000063.jpg,Female,102,102,76.5,1.0,Long Hair,No Facial Hair,1.0
+000064.jpg,Male,115,115,86.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000065.jpg,Male,102,102,76.5,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000066.jpg,Female,110,110,82.5,1.0,Long Hair,Facial Hair,1.0
+000067.jpg,Female,74,74,55.5,1.0,Long Hair,Facial Hair,0.9999999999999999
+000068.jpg,Female,93,93,69.75,1.0,Long Hair,No Facial Hair,1.0
+000069.jpg,Male,102,102,76.5,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000071.jpg,Male,109,109,81.75,1.0,Short Hair or Bald,No Facial Hair,1.0
+000072.jpg,Female,107,107,80.25,1.0,Long Hair,No Facial Hair,1.0
+000073.jpg,Female,104,104,78.0,1.0,Long Hair,Facial Hair,1.0
+000074.jpg,Female,104,104,78.0,1.0,Long Hair,No Facial Hair,1.0
+000075.jpg,Female,117,117,87.75,1.0,Long Hair,Facial Hair,0.9999999999999999
+000076.jpg,Female,100,100,75.0,1.0,Long Hair,No Facial Hair,1.0
+000077.jpg,Female,97,97,72.75,1.0,Long Hair,Facial Hair,0.9999999999999999
+000078.jpg,Female,115,115,86.25,1.0,Long Hair,Facial Hair,1.0
+000079.jpg,Female,103,103,77.25,1.0,Long Hair,Facial Hair,1.0
+000080.jpg,Female,100,100,75.0,1.0,Long Hair,Facial Hair,1.0
+000081.jpg,Female,113,113,84.75,1.0,Long Hair,Facial Hair,1.0
+000082.jpg,Female,114,114,85.5,1.0,Long Hair,Facial Hair,1.0
+000083.jpg,Female,103,103,77.25,1.0,Long Hair,Facial Hair,1.0
+000084.jpg,Male,111,111,83.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000085.jpg,Female,107,107,80.25,1.0,Long Hair,Facial Hair,1.0
+000086.jpg,Male,102,102,76.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000087.jpg,Female,115,115,86.25,1.0,Long Hair,Facial Hair,0.9999999999999999
+000088.jpg,Male,91,91,68.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000089.jpg,Male,90,90,67.5,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000090.jpg,Male,101,101,75.75,1.0,Short Hair or Bald,Facial Hair,1.0
+000091.jpg,Female,101,101,75.75,1.0,Long Hair,Facial Hair,1.0
+000092.jpg,Male,100,100,75.0,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000093.jpg,Male,90,90,67.5,1.0,Short Hair or Bald,Facial Hair,1.0
+000094.jpg,Male,112,112,84.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000095.jpg,Male,95,95,71.25,1.0,Short Hair or Bald,Facial Hair,1.0
+000096.jpg,Female,99,99,74.25,1.0,Long Hair,Facial Hair,1.0
+000097.jpg,Female,97,97,72.75,1.0,Long Hair,Facial Hair,0.9999999999999999
+000098.jpg,Female,89,89,66.75,1.0,Long Hair,Facial Hair,1.0
+000099.jpg,Female,113,113,84.75,1.0,Long Hair,No Facial Hair,1.0
+000100.jpg,Female,115,115,86.25,1.0,Long Hair,Facial Hair,1.0
+000101.jpg,Female,107,107,80.25,1.0,Long Hair,Facial Hair,0.9999999999999999
+000102.jpg,Male,100,100,75.0,1.0,Short Hair or Bald,Facial Hair,1.0
+000103.jpg,Female,94,94,70.5,1.0,Long Hair,Facial Hair,1.0
+000104.jpg,Male,116,116,87.0,1.0,Short Hair or Bald,Facial Hair,1.0
+000105.jpg,Male,115,115,86.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000106.jpg,Female,112,112,84.0,1.0,Long Hair,Facial Hair,0.9999999999999999
+000107.jpg,Female,96,96,72.0,1.0,Long Hair,Facial Hair,1.0
+000108.jpg,Male,119,119,89.25,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000109.jpg,Male,109,109,81.75,1.0,Short Hair or Bald,No Facial Hair,1.0
+000110.jpg,Male,101,101,75.75,1.0,Short Hair or Bald,No Facial Hair,1.0
+000111.jpg,Male,106,106,79.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000112.jpg,Female,114,114,85.5,1.0,Long Hair,No Facial Hair,0.9999999999999999
+000113.jpg,Male,105,105,78.75,1.0,Short Hair or Bald,Facial Hair,1.0
+000114.jpg,Female,104,104,78.0,1.0,Long Hair,No Facial Hair,0.9999999999999999
+000115.jpg,Female,107,107,80.25,1.0,Long Hair,Facial Hair,1.0000000000000002
+000116.jpg,Female,99,99,74.25,1.0,Long Hair,No Facial Hair,1.0
+000117.jpg,Female,91,91,68.25,1.0,Long Hair,Facial Hair,1.0
+000118.jpg,Female,110,110,82.5,1.0,Long Hair,Facial Hair,0.9999999999999999
+000119.jpg,Male,96,96,72.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000121.jpg,Female,113,113,84.75,1.0,Long Hair,Facial Hair,1.0
+000122.jpg,Male,113,113,84.75,1.0,Short Hair or Bald,Facial Hair,0.9999999999999999
+000123.jpg,Female,96,96,72.0,1.0,Long Hair,Facial Hair,1.0
+000124.jpg,Female,69,69,51.75,1.0,Long Hair,No Facial Hair,1.0
+000124.jpg,Female,61,61,45.75,1.0,Long Hair,No Facial Hair,1.0
+000125.jpg,Male,111,111,83.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000126.jpg,Female,118,118,88.5,1.0,Long Hair,No Facial Hair,1.0
+000127.jpg,Female,104,104,78.0,1.0,Long Hair,Facial Hair,1.0
+000128.jpg,Female,103,103,77.25,1.0,Long Hair,No Facial Hair,0.9999999999999999
+000129.jpg,Female,111,111,83.25,1.0,Long Hair,Facial Hair,1.0000000000000002
+000130.jpg,Female,118,118,88.5,1.0,Long Hair,No Facial Hair,1.0
+000131.jpg,Female,100,100,75.0,1.0,Long Hair,Facial Hair,0.9999999999999999
+000132.jpg,Female,112,112,84.0,1.0,Long Hair,Facial Hair,1.0
+000133.jpg,Female,104,104,78.0,1.0,Long Hair,Facial Hair,0.9999999999999999
+000134.jpg,Male,121,121,90.75,1.0,Short Hair or Bald,Facial Hair,0.9999999999999999
+000135.jpg,Female,110,110,82.5,1.0,Long Hair,Facial Hair,1.0
+000136.jpg,Female,108,108,81.0,1.0,Long Hair,Facial Hair,1.0
+000138.jpg,Female,127,127,95.25,1.0,Long Hair,Facial Hair,1.0
+000139.jpg,Male,92,92,69.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000140.jpg,Male,112,112,84.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000141.jpg,Female,125,125,93.75,1.0,Long Hair,Facial Hair,1.0
+000142.jpg,Female,91,91,68.25,1.0,Long Hair,Facial Hair,1.0
+000143.jpg,Female,106,106,79.5,1.0,Long Hair,Facial Hair,1.0
+000144.jpg,Female,135,135,101.25,1.0,Long Hair,Facial Hair,1.0000000000000002
+000145.jpg,Female,104,104,78.0,1.0,Long Hair,Facial Hair,1.0
+000147.jpg,Male,103,103,77.25,1.0,Short Hair or Bald,Facial Hair,1.0
+000148.jpg,Female,91,91,68.25,1.0,Long Hair,Facial Hair,1.0
+000150.jpg,Female,100,100,75.0,1.0,Long Hair,No Facial Hair,0.9999999999999999
+000151.jpg,Female,105,105,78.75,1.0,Long Hair,Facial Hair,1.0
+000152.jpg,Female,103,103,77.25,1.0,Long Hair,No Facial Hair,0.9999999999999999
+000153.jpg,Female,114,114,85.5,1.0,Long Hair,Facial Hair,1.0
+000155.jpg,Male,114,114,85.5,1.0,Short Hair or Bald,Facial Hair,1.0
+000156.jpg,Male,103,103,77.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000157.jpg,Female,102,102,76.5,1.0,Long Hair,No Facial Hair,1.0
+000158.jpg,Female,105,105,78.75,1.0,Long Hair,No Facial Hair,1.0
+000160.jpg,Female,97,97,72.75,1.0,Long Hair,Facial Hair,1.0
+000161.jpg,Female,108,108,81.0,1.0,Long Hair,Facial Hair,1.0
+000162.jpg,Male,99,99,74.25,1.0,Short Hair or Bald,Facial Hair,1.0
+000163.jpg,Female,96,96,72.0,1.0,Long Hair,Facial Hair,1.0
+000164.jpg,Male,100,100,75.0,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000165.jpg,Female,93,93,69.75,1.0,Long Hair,Facial Hair,1.0
+000168.jpg,Female,110,110,82.5,1.0,Long Hair,No Facial Hair,1.0
+000169.jpg,Female,105,105,78.75,1.0,Long Hair,No Facial Hair,0.9999999999999999
+000170.jpg,Female,109,109,81.75,1.0,Long Hair,Facial Hair,1.0
+000171.jpg,Female,102,102,76.5,1.0,Long Hair,No Facial Hair,1.0
+000172.jpg,Female,103,103,77.25,1.0,Long Hair,No Facial Hair,1.0
+000173.jpg,Male,119,119,89.25,1.0,Short Hair or Bald,Facial Hair,1.0
+000174.jpg,Female,107,107,80.25,1.0,Long Hair,Facial Hair,1.0
+000175.jpg,Female,113,113,84.75,1.0,Long Hair,No Facial Hair,0.9999999999999999
+000176.jpg,Male,114,114,85.5,1.0,Short Hair or Bald,Facial Hair,0.9999999999999999
+000177.jpg,Female,100,100,75.0,1.0,Long Hair,No Facial Hair,1.0
+000178.jpg,Male,117,117,87.75,1.0,Short Hair or Bald,No Facial Hair,1.0
+000179.jpg,Female,108,108,81.0,1.0,Long Hair,No Facial Hair,1.0
+000180.jpg,Female,93,93,69.75,1.0,Long Hair,No Facial Hair,1.0
+000180.jpg,Female,106,106,79.5,1.0,Long Hair,No Facial Hair,1.0
+000181.jpg,Female,105,105,78.75,1.0,Long Hair,No Facial Hair,1.0
+000182.jpg,Male,90,90,67.5,1.0,Short Hair or Bald,Facial Hair,1.0
+000183.jpg,Male,119,119,89.25,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000185.jpg,Female,101,101,75.75,1.0,Long Hair,Facial Hair,1.0
+000186.jpg,Male,114,114,85.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000187.jpg,Female,105,105,78.75,1.0,Long Hair,No Facial Hair,1.0
+000188.jpg,Male,110,110,82.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000189.jpg,Female,114,114,85.5,1.0,Long Hair,Facial Hair,1.0
+000190.jpg,Male,90,90,67.5,1.0,Short Hair or Bald,Facial Hair,1.0
+000191.jpg,Female,123,123,92.25,1.0,Long Hair,No Facial Hair,1.0
+000192.jpg,Female,101,101,75.75,1.0,Long Hair,Facial Hair,1.0
+000193.jpg,Male,130,130,97.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000194.jpg,Female,106,106,79.5,1.0,Long Hair,No Facial Hair,1.0
+000195.jpg,Female,82,82,61.5,1.0,Long Hair,No Facial Hair,1.0000000000000002
+000196.jpg,Female,93,93,69.75,1.0,Long Hair,No Facial Hair,1.0
+000197.jpg,Female,93,93,69.75,1.0,Long Hair,Facial Hair,1.0
+000198.jpg,Female,107,107,80.25,1.0,Long Hair,Facial Hair,0.9999999999999999
+000200.jpg,Female,93,93,69.75,1.0,Long Hair,Facial Hair,1.0
+000201.jpg,Male,110,110,82.5,1.0,Short Hair or Bald,Facial Hair,1.0
+000202.jpg,Male,102,102,76.5,1.0,Short Hair or Bald,Facial Hair,1.0
+000203.jpg,Female,101,101,75.75,1.0,Long Hair,No Facial Hair,1.0
+000204.jpg,Female,109,109,81.75,1.0,Long Hair,No Facial Hair,0.9999999999999999
+000205.jpg,Female,109,109,81.75,1.0,Long Hair,No Facial Hair,1.0
+000206.jpg,Female,112,112,84.0,1.0,Long Hair,Facial Hair,1.0
+000207.jpg,Female,104,104,78.0,1.0,Long Hair,Facial Hair,1.0
+000208.jpg,Female,96,96,72.0,1.0,Long Hair,Facial Hair,1.0
+000209.jpg,Female,115,115,86.25,1.0,Long Hair,Facial Hair,1.0
+000210.jpg,Female,81,81,60.75,1.0,Long Hair,No Facial Hair,1.0
+000211.jpg,Female,94,94,70.5,1.0,Long Hair,Facial Hair,1.0
+000212.jpg,Male,104,104,78.0,1.0,Short Hair or Bald,Facial Hair,1.0
+000213.jpg,Male,97,97,72.75,1.0,Short Hair or Bald,No Facial Hair,1.0
+000214.jpg,Female,111,111,83.25,1.0,Long Hair,No Facial Hair,1.0
+000215.jpg,Female,100,100,75.0,1.0,Long Hair,No Facial Hair,1.0
+000216.jpg,Female,100,100,75.0,1.0,Long Hair,Facial Hair,0.9999999999999999
+000217.jpg,Male,105,105,78.75,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000218.jpg,Male,107,107,80.25,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000219.jpg,Female,89,89,66.75,1.0,Long Hair,Facial Hair,1.0
+000220.jpg,Male,91,91,68.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000221.jpg,Male,103,103,77.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000222.jpg,Female,97,97,72.75,1.0,Long Hair,No Facial Hair,0.9999999999999999
+000223.jpg,Male,116,116,87.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000225.jpg,Female,117,117,87.75,1.0,Long Hair,Facial Hair,1.0
+000226.jpg,Male,94,94,70.5,1.0,Short Hair or Bald,Facial Hair,1.0
+000228.jpg,Male,115,115,86.25,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000229.jpg,Female,116,116,87.0,1.0,Long Hair,Facial Hair,1.0
+000230.jpg,Female,104,104,78.0,1.0,Long Hair,Facial Hair,0.9999999999999999
+000231.jpg,Male,108,108,81.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000232.jpg,Female,111,111,83.25,1.0,Long Hair,Facial Hair,1.0
+000233.jpg,Male,97,97,72.75,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000234.jpg,Female,52,52,39.0,1.0,Long Hair,No Facial Hair,0.9999999999999999
+000234.jpg,Female,102,102,76.5,1.0,Long Hair,Facial Hair,1.0
+000235.jpg,Female,99,99,74.25,1.0,Long Hair,Facial Hair,1.0
+000236.jpg,Female,91,91,68.25,1.0,Long Hair,Facial Hair,1.0
+000237.jpg,Male,112,112,84.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000238.jpg,Male,102,102,76.5,1.0,Short Hair or Bald,Facial Hair,1.0
+000239.jpg,Male,108,108,81.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000241.jpg,Male,111,111,83.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000242.jpg,Female,100,100,75.0,1.0,Long Hair,Facial Hair,1.0
+000244.jpg,Female,99,99,74.25,1.0,Long Hair,No Facial Hair,1.0
+000245.jpg,Female,131,131,98.25,1.0,Long Hair,No Facial Hair,1.0
+000246.jpg,Female,94,94,70.5,1.0,Long Hair,Facial Hair,1.0
+000247.jpg,Male,120,120,90.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000248.jpg,Female,108,108,81.0,1.0,Long Hair,Facial Hair,1.0
+000248.jpg,Female,132,132,99.0,1.0,Long Hair,Facial Hair,1.0
+000249.jpg,Female,121,121,90.75,1.0,Long Hair,No Facial Hair,1.0
+000250.jpg,Female,94,94,70.5,1.0,Long Hair,No Facial Hair,1.0
+000251.jpg,Male,114,114,85.5,1.0,Short Hair or Bald,Facial Hair,1.0
+000252.jpg,Male,99,99,74.25,1.0,Short Hair or Bald,No Facial Hair,1.0000000000000002
+000253.jpg,Male,122,122,91.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000254.jpg,Male,114,114,85.5,1.0,Short Hair or Bald,Facial Hair,1.0000000000000002
+000255.jpg,Female,88,88,66.0,1.0,Long Hair,No Facial Hair,1.0
+000256.jpg,Female,97,97,72.75,1.0,Long Hair,Facial Hair,1.0
+000257.jpg,Female,107,107,80.25,1.0,Long Hair,Facial Hair,1.0
+000258.jpg,Female,99,99,74.25,1.0,Long Hair,Facial Hair,0.9999999999999999
+000259.jpg,Female,105,105,78.75,1.0,Long Hair,Facial Hair,0.9999999999999999
+000260.jpg,Female,87,87,65.25,1.0,Long Hair,Facial Hair,1.0
+000261.jpg,Female,96,96,72.0,1.0,Long Hair,Facial Hair,0.9999999999999999
+000262.jpg,Female,103,103,77.25,1.0,Long Hair,Facial Hair,1.0
+000263.jpg,Female,96,96,72.0,1.0,Long Hair,Facial Hair,1.0000000000000002
+000264.jpg,Female,115,115,86.25,1.0,Long Hair,Facial Hair,0.9999999999999999
+000265.jpg,Male,77,77,57.75,1.0,Short Hair or Bald,No Facial Hair,1.0
+000266.jpg,Male,102,102,76.5,1.0,Short Hair or Bald,Facial Hair,1.0
+000267.jpg,Female,103,103,77.25,1.0,Long Hair,Facial Hair,1.0
+000268.jpg,Female,98,98,73.5,1.0,Long Hair,Facial Hair,1.0
+000269.jpg,Female,95,95,71.25,1.0,Long Hair,No Facial Hair,1.0
+000270.jpg,Female,101,101,75.75,1.0,Long Hair,Facial Hair,1.0
+000271.jpg,Female,107,107,80.25,1.0,Long Hair,No Facial Hair,0.9999999999999999
+000272.jpg,Female,115,115,86.25,1.0,Long Hair,Facial Hair,1.0
+000273.jpg,Female,109,109,81.75,1.0,Long Hair,No Facial Hair,1.0
+000274.jpg,Female,109,109,81.75,1.0,Long Hair,No Facial Hair,1.0000000000000002
+000275.jpg,Female,97,97,72.75,1.0,Long Hair,Facial Hair,1.0
+000276.jpg,Female,124,124,93.0,1.0,Long Hair,Facial Hair,0.9999999999999999
+000277.jpg,Female,108,108,81.0,1.0,Long Hair,Facial Hair,1.0
+000278.jpg,Male,110,110,82.5,1.0,Short Hair or Bald,Facial Hair,0.9999999999999999
+000279.jpg,Female,91,91,68.25,1.0,Long Hair,Facial Hair,1.0
+000280.jpg,Female,104,104,78.0,1.0,Long Hair,No Facial Hair,1.0
+000281.jpg,Male,82,82,61.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000282.jpg,Female,110,110,82.5,1.0,Long Hair,Facial Hair,0.9999999999999999
+000284.jpg,Female,85,85,63.75,1.0,Long Hair,No Facial Hair,1.0
+000285.jpg,Female,100,100,75.0,1.0,Long Hair,Facial Hair,0.9999999999999999
+000286.jpg,Female,111,111,83.25,1.0,Long Hair,Facial Hair,0.9999999999999999
+000287.jpg,Male,93,93,69.75,1.0,Short Hair or Bald,No Facial Hair,1.0000000000000002
+000288.jpg,Female,89,89,66.75,1.0,Long Hair,Facial Hair,1.0
+000289.jpg,Male,114,114,85.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000290.jpg,Female,97,97,72.75,1.0,Long Hair,No Facial Hair,1.0
+000291.jpg,Male,106,106,79.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000292.jpg,Female,89,89,66.75,1.0,Long Hair,No Facial Hair,1.0
+000295.jpg,Male,96,96,72.0,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000296.jpg,Female,103,103,77.25,1.0,Long Hair,Facial Hair,1.0
+000297.jpg,Female,102,102,76.5,1.0,Long Hair,Facial Hair,0.9999999999999999
+000298.jpg,Female,115,115,86.25,1.0,Long Hair,Facial Hair,1.0
+000299.jpg,Male,117,117,87.75,1.0,Short Hair or Bald,Facial Hair,1.0
+000300.jpg,Female,112,112,84.0,1.0,Long Hair,Facial Hair,0.9999999999999999
+000301.jpg,Female,111,111,83.25,1.0,Long Hair,Facial Hair,1.0
+000302.jpg,Male,114,114,85.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000303.jpg,Female,104,104,78.0,1.0,Long Hair,Facial Hair,1.0
+000303.jpg,Male,94,94,70.5,1.0,Short Hair or Bald,Facial Hair,1.0
+000304.jpg,Male,89,89,66.75,1.0,Short Hair or Bald,Facial Hair,0.9999999999999999
+000305.jpg,Female,107,107,80.25,1.0,Long Hair,Facial Hair,1.0
+000306.jpg,Male,102,102,76.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000307.jpg,Male,107,107,80.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000309.jpg,Female,120,120,90.0,1.0,Long Hair,Facial Hair,1.0
+000310.jpg,Male,106,106,79.5,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000311.jpg,Male,99,99,74.25,1.0,Short Hair or Bald,Facial Hair,1.0
+000312.jpg,Female,95,95,71.25,1.0,Long Hair,Facial Hair,1.0000000000000002
+000313.jpg,Male,122,122,91.5,1.0,Short Hair or Bald,Facial Hair,1.0
+000314.jpg,Female,100,100,75.0,1.0,Long Hair,Facial Hair,1.0
+000315.jpg,Female,103,103,77.25,1.0,Long Hair,No Facial Hair,0.9999999999999999
+000317.jpg,Male,112,112,84.0,1.0,Short Hair or Bald,Facial Hair,1.0
+000318.jpg,Male,114,114,85.5,1.0,Short Hair or Bald,Facial Hair,1.0
+000319.jpg,Female,92,92,69.0,1.0,Long Hair,No Facial Hair,1.0
+000320.jpg,Female,96,96,72.0,1.0,Long Hair,Facial Hair,0.9999999999999999
+000321.jpg,Male,111,111,83.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000322.jpg,Male,101,101,75.75,1.0,Short Hair or Bald,No Facial Hair,1.0
+000323.jpg,Female,105,105,78.75,1.0,Long Hair,Facial Hair,1.0
+000324.jpg,Female,107,107,80.25,1.0,Long Hair,Facial Hair,0.9999999999999999
+000325.jpg,Male,110,110,82.5,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000326.jpg,Male,77,77,57.75,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000327.jpg,Female,112,112,84.0,1.0,Long Hair,Facial Hair,1.0
+000328.jpg,Female,106,106,79.5,1.0,Long Hair,Facial Hair,1.0
+000329.jpg,Female,104,104,78.0,1.0,Long Hair,Facial Hair,1.0
+000330.jpg,Female,136,136,102.0,1.0,Long Hair,Facial Hair,1.0
+000330.jpg,Female,141,141,105.75,1.0,Long Hair,Facial Hair,0.9999999999999999
+000331.jpg,Female,99,99,74.25,1.0,Long Hair,Facial Hair,1.0
+000332.jpg,Female,106,106,79.5,1.0,Long Hair,Facial Hair,1.0
+000333.jpg,Female,111,111,83.25,1.0,Long Hair,Facial Hair,1.0
+000334.jpg,Male,110,110,82.5,1.0,Short Hair or Bald,Facial Hair,0.9999999999999999
+000335.jpg,Male,92,92,69.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000336.jpg,Female,109,109,81.75,1.0,Long Hair,Facial Hair,1.0
+000337.jpg,Female,100,100,75.0,1.0,Long Hair,Facial Hair,1.0
+000338.jpg,Male,110,110,82.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000339.jpg,Female,108,108,81.0,1.0,Long Hair,Facial Hair,0.9999999999999999
+000340.jpg,Female,112,112,84.0,1.0,Long Hair,Facial Hair,0.9999999999999999
+000341.jpg,Female,120,120,90.0,1.0,Long Hair,Facial Hair,1.0000000000000002
+000342.jpg,Female,105,105,78.75,1.0,Long Hair,Facial Hair,0.9999999999999999
+000343.jpg,Male,127,127,95.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000344.jpg,Male,99,99,74.25,1.0,Short Hair or Bald,Facial Hair,0.9999999999999999
+000345.jpg,Female,101,101,75.75,1.0,Long Hair,Facial Hair,1.0
+000346.jpg,Female,98,98,73.5,1.0,Long Hair,Facial Hair,1.0
+000347.jpg,Male,82,82,61.5,1.0,Short Hair or Bald,No Facial Hair,1.0000000000000002
+000348.jpg,Female,106,106,79.5,1.0,Long Hair,No Facial Hair,0.9999999999999999
+000349.jpg,Female,102,102,76.5,1.0,Long Hair,Facial Hair,0.9999999999999999
+000350.jpg,Female,120,120,90.0,1.0,Long Hair,Facial Hair,0.9999999999999999
+000351.jpg,Male,105,105,78.75,1.0,Short Hair or Bald,No Facial Hair,1.0
+000352.jpg,Male,114,114,85.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000353.jpg,Female,99,99,74.25,1.0,Long Hair,Facial Hair,1.0
+000354.jpg,Female,108,108,81.0,1.0,Long Hair,Facial Hair,1.0
+000355.jpg,Female,93,93,69.75,1.0,Long Hair,Facial Hair,1.0
+000356.jpg,Female,108,108,81.0,1.0,Long Hair,No Facial Hair,0.9999999999999999
+000357.jpg,Male,107,107,80.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000358.jpg,Male,112,112,84.0,1.0,Short Hair or Bald,Facial Hair,1.0
+000359.jpg,Female,103,103,77.25,1.0,Long Hair,Facial Hair,0.9999999999999998
+000360.jpg,Male,104,104,78.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000361.jpg,Female,92,92,69.0,1.0,Long Hair,Facial Hair,1.0
+000362.jpg,Female,86,86,64.5,1.0,Long Hair,No Facial Hair,1.0
+000363.jpg,Female,109,109,81.75,1.0,Long Hair,No Facial Hair,1.0
+000364.jpg,Male,113,113,84.75,1.0,Short Hair or Bald,No Facial Hair,1.0
+000365.jpg,Male,103,103,77.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000367.jpg,Female,100,100,75.0,1.0,Long Hair,Facial Hair,1.0
+000368.jpg,Male,115,115,86.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000369.jpg,Female,102,102,76.5,1.0,Long Hair,Facial Hair,1.0
+000370.jpg,Female,110,110,82.5,1.0,Long Hair,Facial Hair,1.0
+000371.jpg,Male,93,93,69.75,1.0,Short Hair or Bald,No Facial Hair,1.0
+000372.jpg,Male,115,115,86.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000373.jpg,Male,126,126,94.5,1.0,Short Hair or Bald,Facial Hair,1.0
+000375.jpg,Male,57,57,42.75,1.0,Short Hair or Bald,No Facial Hair,1.0
+000375.jpg,Male,93,93,69.75,1.0,Short Hair or Bald,No Facial Hair,1.0
+000377.jpg,Female,106,106,79.5,1.0,Long Hair,No Facial Hair,1.0
+000378.jpg,Female,113,113,84.75,1.0,Long Hair,No Facial Hair,1.0
+000379.jpg,Female,104,104,78.0,1.0,Long Hair,No Facial Hair,1.0
+000380.jpg,Male,106,106,79.5,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000381.jpg,Female,116,116,87.0,1.0,Long Hair,Facial Hair,1.0
+000382.jpg,Male,129,129,96.75,1.0,Short Hair or Bald,No Facial Hair,1.0
+000383.jpg,Female,95,95,71.25,1.0,Long Hair,Facial Hair,1.0
+000384.jpg,Female,110,110,82.5,1.0,Long Hair,Facial Hair,1.0
+000385.jpg,Female,94,94,70.5,1.0,Long Hair,No Facial Hair,1.0
+000386.jpg,Female,90,90,67.5,1.0,Long Hair,Facial Hair,1.0
+000387.jpg,Male,118,118,88.5,1.0,Short Hair or Bald,Facial Hair,1.0
+000388.jpg,Male,96,96,72.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000389.jpg,Male,96,96,72.0,1.0,Short Hair or Bald,Facial Hair,1.0
+000390.jpg,Female,113,113,84.75,1.0,Long Hair,Facial Hair,1.0
+000391.jpg,Female,104,104,78.0,1.0,Long Hair,Facial Hair,1.0
+000392.jpg,Female,109,109,81.75,1.0,Long Hair,Facial Hair,0.9999999999999999
+000393.jpg,Male,116,116,87.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000394.jpg,Female,109,109,81.75,1.0,Long Hair,Facial Hair,0.9999999999999999
+000396.jpg,Male,118,118,88.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000397.jpg,Female,101,101,75.75,1.0,Long Hair,Facial Hair,1.0
+000398.jpg,Male,105,105,78.75,1.0,Short Hair or Bald,No Facial Hair,1.0
+000399.jpg,Male,104,104,78.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000400.jpg,Female,94,94,70.5,1.0,Long Hair,Facial Hair,1.0
+000401.jpg,Female,103,103,77.25,1.0,Long Hair,No Facial Hair,1.0
+000402.jpg,Female,106,106,79.5,1.0,Long Hair,Facial Hair,1.0
+000403.jpg,Female,92,92,69.0,1.0,Long Hair,No Facial Hair,1.0
+000404.jpg,Female,93,93,69.75,1.0,Long Hair,Facial Hair,1.0
+000405.jpg,Female,106,106,79.5,1.0,Long Hair,No Facial Hair,0.9999999999999999
+000406.jpg,Female,117,117,87.75,1.0,Long Hair,No Facial Hair,0.9999999999999999
+000407.jpg,Male,107,107,80.25,1.0,Short Hair or Bald,Facial Hair,1.0
+000408.jpg,Male,104,104,78.0,1.0,Short Hair or Bald,Facial Hair,1.0
+000409.jpg,Female,112,112,84.0,1.0,Long Hair,Facial Hair,1.0
+000410.jpg,Male,98,98,73.5,1.0,Short Hair or Bald,Facial Hair,1.0
+000411.jpg,Male,100,100,75.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000412.jpg,Male,101,101,75.75,1.0,Short Hair or Bald,Facial Hair,0.9999999999999999
+000413.jpg,Female,116,116,87.0,1.0,Long Hair,Facial Hair,1.0
+000414.jpg,Male,104,104,78.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000415.jpg,Female,105,105,78.75,1.0,Long Hair,Facial Hair,1.0
+000416.jpg,Male,104,104,78.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000418.jpg,Female,121,121,90.75,1.0,Long Hair,Facial Hair,1.0
+000419.jpg,Female,100,100,75.0,1.0,Long Hair,Facial Hair,0.9999999999999999
+000420.jpg,Female,102,102,76.5,1.0,Long Hair,No Facial Hair,1.0
+000421.jpg,Male,108,108,81.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000422.jpg,Female,100,100,75.0,1.0,Long Hair,Facial Hair,1.0
+000423.jpg,Male,108,108,81.0,1.0,Short Hair or Bald,Facial Hair,1.0
+000424.jpg,Female,101,101,75.75,1.0,Long Hair,Facial Hair,1.0
+000425.jpg,Female,101,101,75.75,1.0,Long Hair,Facial Hair,1.0000000000000002
+000426.jpg,Female,77,77,57.75,1.0,Long Hair,Facial Hair,1.0
+000427.jpg,Male,96,96,72.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000428.jpg,Female,120,120,90.0,1.0,Long Hair,No Facial Hair,1.0
+000429.jpg,Female,95,95,71.25,1.0,Long Hair,Facial Hair,1.0
+000430.jpg,Female,116,116,87.0,1.0,Long Hair,Facial Hair,0.9999999999999999
+000431.jpg,Male,98,98,73.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000432.jpg,Male,111,111,83.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000433.jpg,Female,116,116,87.0,1.0,Long Hair,Facial Hair,1.0
+000434.jpg,Female,105,105,78.75,1.0,Long Hair,Facial Hair,1.0
+000435.jpg,Female,115,115,86.25,1.0,Long Hair,Facial Hair,1.0
+000436.jpg,Male,101,101,75.75,1.0,Short Hair or Bald,Facial Hair,1.0
+000437.jpg,Male,95,95,71.25,1.0,Short Hair or Bald,Facial Hair,1.0
+000438.jpg,Female,99,99,74.25,1.0,Long Hair,Facial Hair,1.0
+000439.jpg,Male,100,100,75.0,1.0,Short Hair or Bald,Facial Hair,1.0
+000440.jpg,Male,99,99,74.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000441.jpg,Male,118,118,88.5,1.0,Short Hair or Bald,Facial Hair,0.9999999999999999
+000442.jpg,Male,95,95,71.25,1.0,Short Hair or Bald,Facial Hair,1.0
+000443.jpg,Male,120,120,90.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000444.jpg,Male,108,108,81.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000445.jpg,Female,98,98,73.5,1.0,Long Hair,Facial Hair,0.9999999999999999
+000446.jpg,Female,115,115,86.25,1.0,Long Hair,No Facial Hair,1.0
+000449.jpg,Male,102,102,76.5,1.0,Short Hair or Bald,Facial Hair,1.0
+000450.jpg,Male,112,112,84.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000451.jpg,Male,109,109,81.75,1.0,Short Hair or Bald,Facial Hair,1.0000000000000002
+000452.jpg,Male,116,116,87.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000454.jpg,Male,112,112,84.0,1.0,Short Hair or Bald,Facial Hair,1.0
+000455.jpg,Female,108,108,81.0,1.0,Long Hair,Facial Hair,1.0
+000456.jpg,Female,114,114,85.5,1.0,Long Hair,Facial Hair,1.0
+000457.jpg,Female,104,104,78.0,1.0,Long Hair,Facial Hair,1.0
+000458.jpg,Male,117,117,87.75,1.0,Short Hair or Bald,Facial Hair,1.0
+000459.jpg,Male,101,101,75.75,1.0,Short Hair or Bald,Facial Hair,1.0
+000460.jpg,Female,115,115,86.25,1.0,Long Hair,No Facial Hair,1.0
+000461.jpg,Male,114,114,85.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000462.jpg,Female,101,101,75.75,1.0,Long Hair,Facial Hair,1.0
+000463.jpg,Female,94,94,70.5,1.0,Long Hair,Facial Hair,1.0
+000464.jpg,Female,105,105,78.75,1.0,Long Hair,No Facial Hair,1.0000000000000002
+000465.jpg,Female,103,103,77.25,1.0,Long Hair,Facial Hair,1.0
+000466.jpg,Female,101,101,75.75,1.0,Long Hair,Facial Hair,1.0
+000467.jpg,Female,108,108,81.0,1.0,Long Hair,Facial Hair,1.0
+000468.jpg,Male,93,93,69.75,1.0,Short Hair or Bald,No Facial Hair,1.0000000000000002
+000469.jpg,Female,76,76,57.0,1.0,Long Hair,No Facial Hair,1.0
+000470.jpg,Female,104,104,78.0,1.0,Long Hair,Facial Hair,1.0000000000000002
+000471.jpg,Female,111,111,83.25,1.0,Long Hair,No Facial Hair,1.0
+000472.jpg,Female,108,108,81.0,1.0,Long Hair,Facial Hair,1.0
+000473.jpg,Male,89,89,66.75,1.0,Short Hair or Bald,No Facial Hair,1.0
+000474.jpg,Male,107,107,80.25,1.0,Short Hair or Bald,Facial Hair,1.0
+000475.jpg,Female,114,114,85.5,1.0,Long Hair,No Facial Hair,1.0
+000476.jpg,Male,108,108,81.0,1.0,Short Hair or Bald,Facial Hair,0.9999999999999999
+000477.jpg,Female,108,108,81.0,1.0,Long Hair,Facial Hair,0.9999999999999999
+000478.jpg,Male,106,106,79.5,1.0,Short Hair or Bald,Facial Hair,1.0
+000479.jpg,Female,106,106,79.5,1.0,Long Hair,Facial Hair,1.0
+000480.jpg,Female,90,90,67.5,1.0,Long Hair,Facial Hair,1.0
+000481.jpg,Female,110,110,82.5,1.0,Long Hair,No Facial Hair,0.9999999999999999
+000482.jpg,Female,99,99,74.25,1.0,Long Hair,Facial Hair,1.0
+000483.jpg,Male,97,97,72.75,1.0,Short Hair or Bald,No Facial Hair,1.0
+000484.jpg,Female,114,114,85.5,1.0,Long Hair,Facial Hair,0.9999999999999999
+000485.jpg,Male,107,107,80.25,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000486.jpg,Female,109,109,81.75,1.0,Long Hair,Facial Hair,1.0
+000487.jpg,Male,103,103,77.25,1.0,Short Hair or Bald,Facial Hair,1.0
+000488.jpg,Female,97,97,72.75,1.0,Long Hair,Facial Hair,0.9999999999999999
+000489.jpg,Female,110,110,82.5,1.0,Long Hair,No Facial Hair,1.0
+000490.jpg,Female,114,114,85.5,1.0,Long Hair,Facial Hair,1.0
+000491.jpg,Male,108,108,81.0,1.0,Short Hair or Bald,Facial Hair,1.0
+000492.jpg,Male,108,108,81.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000493.jpg,Male,100,100,75.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000494.jpg,Male,105,105,78.75,1.0,Short Hair or Bald,No Facial Hair,1.0
+000495.jpg,Female,108,108,81.0,1.0,Long Hair,No Facial Hair,1.0
+000496.jpg,Female,107,107,80.25,1.0,Long Hair,Facial Hair,1.0
+000497.jpg,Male,111,111,83.25,1.0,Short Hair or Bald,Facial Hair,1.0
+000498.jpg,Male,125,125,93.75,1.0,Short Hair or Bald,Facial Hair,0.9999999999999999
+000499.jpg,Male,106,106,79.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000500.jpg,Female,113,113,84.75,1.0,Long Hair,Facial Hair,1.0
+000501.jpg,Female,108,108,81.0,1.0,Long Hair,Facial Hair,1.0
+000502.jpg,Female,97,97,72.75,1.0,Long Hair,Facial Hair,0.9999999999999999
+000503.jpg,Male,103,103,77.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000504.jpg,Female,108,108,81.0,1.0,Long Hair,No Facial Hair,1.0
+000505.jpg,Female,119,119,89.25,1.0,Long Hair,Facial Hair,1.0
+000506.jpg,Female,111,111,83.25,1.0,Long Hair,Facial Hair,1.0
+000507.jpg,Female,106,106,79.5,1.0,Long Hair,Facial Hair,1.0
+000508.jpg,Female,104,104,78.0,1.0,Long Hair,Facial Hair,1.0
+000509.jpg,Male,99,99,74.25,1.0,Short Hair or Bald,No Facial Hair,1.0000000000000002
+000510.jpg,Male,105,105,78.75,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000511.jpg,Female,111,111,83.25,1.0,Long Hair,Facial Hair,1.0
+000512.jpg,Male,111,111,83.25,1.0,Short Hair or Bald,Facial Hair,1.0
+000513.jpg,Male,112,112,84.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000514.jpg,Female,121,121,90.75,1.0,Long Hair,No Facial Hair,1.0
+000515.jpg,Female,106,106,79.5,1.0,Long Hair,No Facial Hair,0.9999999999999999
+000516.jpg,Male,100,100,75.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000517.jpg,Female,126,126,94.5,1.0,Long Hair,Facial Hair,1.0
+000518.jpg,Male,130,130,97.5,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000519.jpg,Female,107,107,80.25,1.0,Long Hair,Facial Hair,1.0
+000520.jpg,Male,97,97,72.75,1.0,Short Hair or Bald,No Facial Hair,1.0
+000521.jpg,Female,103,103,77.25,1.0,Long Hair,Facial Hair,0.9999999999999999
+000522.jpg,Female,118,118,88.5,1.0,Long Hair,Facial Hair,1.0
+000523.jpg,Male,112,112,84.0,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000524.jpg,Female,117,117,87.75,1.0,Long Hair,Facial Hair,1.0
+000525.jpg,Male,87,87,65.25,1.0,Short Hair or Bald,Facial Hair,0.9999999999999999
+000526.jpg,Male,95,95,71.25,1.0,Short Hair or Bald,Facial Hair,1.0
+000527.jpg,Female,110,110,82.5,1.0,Long Hair,Facial Hair,1.0
+000528.jpg,Male,107,107,80.25,1.0,Short Hair or Bald,Facial Hair,1.0
+000529.jpg,Female,125,125,93.75,1.0,Long Hair,Facial Hair,1.0000000000000002
+000530.jpg,Male,106,106,79.5,1.0,Short Hair or Bald,Facial Hair,0.9999999999999999
+000531.jpg,Female,103,103,77.25,1.0,Long Hair,Facial Hair,1.0
+000532.jpg,Male,116,116,87.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000533.jpg,Female,113,113,84.75,1.0,Long Hair,No Facial Hair,1.0
+000534.jpg,Female,102,102,76.5,1.0,Long Hair,No Facial Hair,0.9999999999999999
+000535.jpg,Male,119,119,89.25,1.0,Short Hair or Bald,Facial Hair,1.0
+000536.jpg,Female,103,103,77.25,1.0,Long Hair,Facial Hair,0.9999999999999999
+000537.jpg,Female,92,92,69.0,1.0,Long Hair,Facial Hair,1.0
+000538.jpg,Male,115,115,86.25,1.0,Short Hair or Bald,Facial Hair,1.0
+000539.jpg,Female,95,95,71.25,1.0,Long Hair,Facial Hair,1.0
+000540.jpg,Female,113,113,84.75,1.0,Long Hair,Facial Hair,1.0
+000541.jpg,Female,100,100,75.0,1.0,Long Hair,Facial Hair,1.0
+000542.jpg,Female,102,102,76.5,1.0,Long Hair,No Facial Hair,1.0
+000543.jpg,Female,106,106,79.5,1.0,Long Hair,No Facial Hair,1.0
+000544.jpg,Female,103,103,77.25,1.0,Long Hair,Facial Hair,1.0
+000545.jpg,Female,105,105,78.75,1.0,Long Hair,No Facial Hair,1.0
+000546.jpg,Female,98,98,73.5,1.0,Long Hair,Facial Hair,0.9999999999999999
+000547.jpg,Female,67,67,50.25,1.0,Long Hair,No Facial Hair,1.0
+000548.jpg,Female,102,102,76.5,1.0,Long Hair,Facial Hair,1.0
+000549.jpg,Female,83,83,62.25,1.0,Long Hair,Facial Hair,1.0
+000550.jpg,Female,107,107,80.25,1.0,Long Hair,No Facial Hair,0.9999999999999999
+000551.jpg,Female,107,107,80.25,1.0,Long Hair,Facial Hair,1.0
+000551.jpg,Male,53,53,39.75,1.0,Short Hair or Bald,No Facial Hair,1.0000000000000002
+000552.jpg,Male,112,112,84.0,1.0,Short Hair or Bald,Facial Hair,1.0
+000553.jpg,Male,102,102,76.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000554.jpg,Female,102,102,76.5,1.0,Long Hair,Facial Hair,1.0
+000555.jpg,Female,122,122,91.5,1.0,Long Hair,Facial Hair,0.9999999999999999
+000556.jpg,Female,117,117,87.75,1.0,Long Hair,Facial Hair,1.0
+000558.jpg,Female,107,107,80.25,1.0,Long Hair,No Facial Hair,0.9999999999999999
+000559.jpg,Female,98,98,73.5,1.0,Long Hair,Facial Hair,1.0
+000560.jpg,Male,100,100,75.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000561.jpg,Female,119,119,89.25,1.0,Long Hair,No Facial Hair,1.0
+000562.jpg,Male,126,126,94.5,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000563.jpg,Male,107,107,80.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000564.jpg,Female,91,91,68.25,1.0,Long Hair,No Facial Hair,1.0
+000565.jpg,Female,112,112,84.0,1.0,Long Hair,Facial Hair,0.9999999999999999
+000566.jpg,Male,112,112,84.0,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000567.jpg,Female,103,103,77.25,1.0,Long Hair,No Facial Hair,1.0
+000568.jpg,Male,112,112,84.0,1.0,Short Hair or Bald,Facial Hair,1.0
+000569.jpg,Female,100,100,75.0,1.0,Long Hair,Facial Hair,1.0
+000570.jpg,Female,93,93,69.75,1.0,Long Hair,Facial Hair,1.0
+000571.jpg,Female,100,100,75.0,1.0,Long Hair,Facial Hair,1.0
+000572.jpg,Female,116,116,87.0,1.0,Long Hair,No Facial Hair,1.0
+000573.jpg,Male,69,69,51.75,1.0,Short Hair or Bald,Facial Hair,0.9999999999999999
+000574.jpg,Female,109,109,81.75,1.0,Long Hair,Facial Hair,1.0
+000575.jpg,Male,120,120,90.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000576.jpg,Male,113,113,84.75,1.0,Short Hair or Bald,No Facial Hair,1.0
+000577.jpg,Female,90,90,67.5,1.0,Long Hair,Facial Hair,1.0
+000578.jpg,Male,100,100,75.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000579.jpg,Male,102,102,76.5,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000580.jpg,Male,90,90,67.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000581.jpg,Female,103,103,77.25,1.0,Long Hair,Facial Hair,1.0
+000582.jpg,Female,102,102,76.5,1.0,Long Hair,No Facial Hair,0.9999999999999999
+000583.jpg,Female,112,112,84.0,1.0,Long Hair,Facial Hair,1.0
+000584.jpg,Female,106,106,79.5,1.0,Long Hair,No Facial Hair,1.0
+000585.jpg,Female,106,106,79.5,1.0,Long Hair,Facial Hair,1.0
+000586.jpg,Female,127,127,95.25,1.0,Long Hair,Facial Hair,1.0
+000587.jpg,Female,103,103,77.25,1.0,Long Hair,Facial Hair,1.0
+000588.jpg,Male,119,119,89.25,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000589.jpg,Female,102,102,76.5,1.0,Long Hair,Facial Hair,1.0
+000590.jpg,Female,93,93,69.75,1.0,Long Hair,Facial Hair,1.0
+000591.jpg,Female,108,108,81.0,1.0,Long Hair,Facial Hair,0.9999999999999999
+000592.jpg,Male,104,104,78.0,1.0,Short Hair or Bald,Facial Hair,1.0
+000593.jpg,Female,96,96,72.0,1.0,Long Hair,Facial Hair,1.0
+000594.jpg,Female,99,99,74.25,1.0,Long Hair,Facial Hair,1.0000000000000002
+000595.jpg,Female,116,116,87.0,1.0,Long Hair,Facial Hair,1.0
+000596.jpg,Male,93,93,69.75,1.0,Short Hair or Bald,Facial Hair,1.0
+000597.jpg,Male,92,92,69.0,1.0,Short Hair or Bald,Facial Hair,1.0
+000598.jpg,Female,95,95,71.25,1.0,Long Hair,Facial Hair,1.0
+000599.jpg,Male,113,113,84.75,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000600.jpg,Female,105,105,78.75,1.0,Long Hair,No Facial Hair,0.9999999999999999
+000601.jpg,Female,89,89,66.75,1.0,Long Hair,Facial Hair,0.9999999999999999
+000602.jpg,Male,102,102,76.5,1.0,Short Hair or Bald,Facial Hair,1.0
+000603.jpg,Female,103,103,77.25,1.0,Long Hair,Facial Hair,0.9999999999999999
+000604.jpg,Female,109,109,81.75,1.0,Long Hair,Facial Hair,1.0
+000605.jpg,Female,109,109,81.75,1.0,Long Hair,No Facial Hair,1.0
+000606.jpg,Male,119,119,89.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000607.jpg,Male,89,89,66.75,1.0,Short Hair or Bald,No Facial Hair,1.0
+000608.jpg,Male,98,98,73.5,1.0,Short Hair or Bald,Facial Hair,0.9999999999999999
+000609.jpg,Male,109,109,81.75,1.0,Short Hair or Bald,Facial Hair,1.0
+000610.jpg,Female,99,99,74.25,1.0,Long Hair,Facial Hair,1.0
+000611.jpg,Female,98,98,73.5,1.0,Long Hair,Facial Hair,1.0
+000612.jpg,Female,97,97,72.75,1.0,Long Hair,Facial Hair,1.0
+000613.jpg,Female,91,91,68.25,1.0,Long Hair,No Facial Hair,1.0
+000614.jpg,Female,114,114,85.5,1.0,Long Hair,Facial Hair,1.0
+000615.jpg,Male,88,88,66.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000616.jpg,Female,119,119,89.25,1.0,Long Hair,Facial Hair,1.0
+000617.jpg,Female,110,110,82.5,1.0,Long Hair,No Facial Hair,1.0
+000618.jpg,Female,114,114,85.5,1.0,Long Hair,Facial Hair,0.9999999999999999
+000619.jpg,Female,99,99,74.25,1.0,Long Hair,Facial Hair,0.9999999999999999
+000620.jpg,Female,118,118,88.5,1.0,Long Hair,No Facial Hair,1.0
+000621.jpg,Male,94,94,70.5,1.0,Short Hair or Bald,Facial Hair,1.0
+000622.jpg,Male,112,112,84.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000624.jpg,Male,112,112,84.0,1.0,Short Hair or Bald,Facial Hair,1.0
+000625.jpg,Female,106,106,79.5,1.0,Long Hair,Facial Hair,1.0000000000000002
+000626.jpg,Female,117,117,87.75,1.0,Long Hair,Facial Hair,1.0
+000628.jpg,Male,118,118,88.5,1.0,Short Hair or Bald,Facial Hair,1.0
+000629.jpg,Female,112,112,84.0,1.0,Long Hair,No Facial Hair,0.9999999999999999
+000630.jpg,Female,105,105,78.75,1.0,Long Hair,No Facial Hair,0.9999999999999999
+000631.jpg,Female,113,113,84.75,1.0,Long Hair,Facial Hair,1.0
+000632.jpg,Female,91,91,68.25,1.0,Long Hair,No Facial Hair,1.0
+000633.jpg,Female,113,113,84.75,1.0,Long Hair,Facial Hair,1.0
+000634.jpg,Male,115,115,86.25,1.0,Short Hair or Bald,Facial Hair,1.0
+000636.jpg,Female,109,109,81.75,1.0,Long Hair,No Facial Hair,1.0
+000637.jpg,Male,99,99,74.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000638.jpg,Female,106,106,79.5,1.0,Long Hair,Facial Hair,0.9999999999999999
+000640.jpg,Female,98,98,73.5,1.0,Long Hair,Facial Hair,1.0
+000641.jpg,Female,123,123,92.25,1.0,Long Hair,Facial Hair,1.0
+000642.jpg,Male,104,104,78.0,1.0,Short Hair or Bald,Facial Hair,1.0
+000643.jpg,Male,118,118,88.5,1.0,Short Hair or Bald,Facial Hair,0.9999999999999999
+000644.jpg,Male,109,109,81.75,1.0,Short Hair or Bald,No Facial Hair,1.0000000000000002
+000645.jpg,Female,90,90,67.5,1.0,Long Hair,Facial Hair,1.0
+000647.jpg,Female,98,98,73.5,1.0,Long Hair,Facial Hair,1.0
+000648.jpg,Male,93,93,69.75,1.0,Short Hair or Bald,No Facial Hair,1.0
+000649.jpg,Female,88,88,66.0,1.0,Long Hair,No Facial Hair,1.0
+000650.jpg,Female,110,110,82.5,1.0,Long Hair,Facial Hair,1.0
+000651.jpg,Male,102,102,76.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000652.jpg,Female,97,97,72.75,1.0,Long Hair,Facial Hair,0.9999999999999999
+000653.jpg,Male,109,109,81.75,1.0,Short Hair or Bald,Facial Hair,1.0
+000654.jpg,Female,103,103,77.25,1.0,Long Hair,Facial Hair,1.0
+000655.jpg,Female,98,98,73.5,1.0,Long Hair,No Facial Hair,1.0
+000656.jpg,Male,102,102,76.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000657.jpg,Male,102,102,76.5,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000658.jpg,Female,119,119,89.25,1.0,Long Hair,Facial Hair,0.9999999999999999
+000659.jpg,Female,109,109,81.75,1.0,Long Hair,No Facial Hair,0.9999999999999999
+000660.jpg,Male,114,114,85.5,1.0,Short Hair or Bald,Facial Hair,1.0
+000661.jpg,Male,117,117,87.75,1.0,Short Hair or Bald,No Facial Hair,1.0
+000662.jpg,Male,104,104,78.0,1.0,Short Hair or Bald,Facial Hair,1.0
+000663.jpg,Female,120,120,90.0,1.0,Long Hair,Facial Hair,1.0
+000664.jpg,Female,96,96,72.0,1.0,Long Hair,Facial Hair,1.0000000000000002
+000665.jpg,Female,110,110,82.5,1.0,Long Hair,Facial Hair,1.0
+000666.jpg,Male,103,103,77.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000667.jpg,Male,103,103,77.25,1.0,Short Hair or Bald,Facial Hair,1.0
+000668.jpg,Female,104,104,78.0,1.0,Long Hair,Facial Hair,1.0
+000669.jpg,Female,90,90,67.5,1.0,Long Hair,Facial Hair,1.0000000000000002
+000670.jpg,Female,105,105,78.75,1.0,Long Hair,No Facial Hair,1.0
+000671.jpg,Female,105,105,78.75,1.0,Long Hair,Facial Hair,1.0
+000672.jpg,Female,107,107,80.25,1.0,Long Hair,No Facial Hair,1.0
+000673.jpg,Male,111,111,83.25,1.0,Short Hair or Bald,Facial Hair,1.0
+000674.jpg,Female,91,91,68.25,1.0,Long Hair,Facial Hair,0.9999999999999999
+000675.jpg,Female,105,105,78.75,1.0,Long Hair,Facial Hair,0.9999999999999999
+000676.jpg,Male,108,108,81.0,1.0,Short Hair or Bald,Facial Hair,1.0
+000677.jpg,Male,113,113,84.75,1.0,Short Hair or Bald,Facial Hair,1.0
+000678.jpg,Female,117,117,87.75,1.0,Long Hair,Facial Hair,1.0
+000679.jpg,Male,104,104,78.0,1.0,Short Hair or Bald,Facial Hair,1.0
+000680.jpg,Male,93,93,69.75,1.0,Short Hair or Bald,No Facial Hair,1.0
+000681.jpg,Female,113,113,84.75,1.0,Long Hair,Facial Hair,1.0
+000682.jpg,Female,107,107,80.25,1.0,Long Hair,No Facial Hair,1.0
+000684.jpg,Male,115,115,86.25,1.0,Short Hair or Bald,Facial Hair,1.0
+000685.jpg,Male,96,96,72.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000686.jpg,Female,112,112,84.0,1.0,Long Hair,Facial Hair,0.9999999999999999
+000687.jpg,Male,102,102,76.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000688.jpg,Male,104,104,78.0,1.0,Short Hair or Bald,Facial Hair,1.0
+000689.jpg,Female,111,111,83.25,1.0,Long Hair,Facial Hair,1.0
+000690.jpg,Female,105,105,78.75,1.0,Long Hair,Facial Hair,1.0
+000691.jpg,Male,129,129,96.75,1.0,Short Hair or Bald,Facial Hair,1.0
+000692.jpg,Male,95,95,71.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000693.jpg,Male,120,120,90.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000694.jpg,Female,108,108,81.0,1.0,Long Hair,Facial Hair,1.0
+000695.jpg,Male,100,100,75.0,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000696.jpg,Female,109,109,81.75,1.0,Long Hair,Facial Hair,1.0
+000697.jpg,Male,126,126,94.5,1.0,Short Hair or Bald,Facial Hair,1.0
+000698.jpg,Male,100,100,75.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000699.jpg,Male,108,108,81.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000700.jpg,Female,104,104,78.0,1.0,Long Hair,No Facial Hair,0.9999999999999999
+000701.jpg,Female,117,117,87.75,1.0,Long Hair,Facial Hair,0.9999999999999999
+000702.jpg,Male,107,107,80.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000703.jpg,Female,98,98,73.5,1.0,Long Hair,Facial Hair,1.0
+000704.jpg,Male,107,107,80.25,1.0,Short Hair or Bald,Facial Hair,1.0
+000705.jpg,Female,110,110,82.5,1.0,Long Hair,Facial Hair,1.0
+000706.jpg,Male,101,101,75.75,1.0,Short Hair or Bald,Facial Hair,1.0
+000707.jpg,Male,108,108,81.0,1.0,Short Hair or Bald,Facial Hair,1.0
+000708.jpg,Female,79,79,59.25,1.0,Long Hair,No Facial Hair,1.0
+000709.jpg,Male,122,122,91.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000710.jpg,Female,115,115,86.25,1.0,Long Hair,Facial Hair,1.0000000000000002
+000711.jpg,Female,104,104,78.0,1.0,Long Hair,No Facial Hair,1.0
+000712.jpg,Female,109,109,81.75,1.0,Long Hair,No Facial Hair,1.0
+000713.jpg,Female,113,113,84.75,1.0,Long Hair,No Facial Hair,1.0
+000714.jpg,Male,114,114,85.5,1.0,Short Hair or Bald,Facial Hair,1.0
+000715.jpg,Male,96,96,72.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000716.jpg,Female,100,100,75.0,1.0,Long Hair,Facial Hair,1.0
+000717.jpg,Female,91,91,68.25,1.0,Long Hair,Facial Hair,1.0
+000718.jpg,Female,103,103,77.25,1.0,Long Hair,Facial Hair,0.9999999999999999
+000719.jpg,Male,112,112,84.0,1.0,Short Hair or Bald,Facial Hair,1.0
+000720.jpg,Female,115,115,86.25,1.0,Long Hair,Facial Hair,1.0
+000721.jpg,Male,100,100,75.0,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000722.jpg,Female,103,103,77.25,1.0,Long Hair,Facial Hair,1.0
+000723.jpg,Male,104,104,78.0,1.0,Short Hair or Bald,Facial Hair,1.0
+000724.jpg,Female,96,96,72.0,1.0,Long Hair,Facial Hair,1.0
+000725.jpg,Female,111,111,83.25,1.0,Long Hair,No Facial Hair,0.9999999999999999
+000726.jpg,Male,112,112,84.0,1.0,Short Hair or Bald,No Facial Hair,1.0000000000000002
+000727.jpg,Female,102,102,76.5,1.0,Long Hair,Facial Hair,1.0000000000000002
+000728.jpg,Male,107,107,80.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000729.jpg,Female,105,105,78.75,1.0,Long Hair,Facial Hair,1.0
+000730.jpg,Female,102,102,76.5,1.0,Long Hair,Facial Hair,1.0
+000731.jpg,Male,79,79,59.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000732.jpg,Female,96,96,72.0,1.0,Long Hair,Facial Hair,0.9999999999999999
+000733.jpg,Female,97,97,72.75,1.0,Long Hair,Facial Hair,0.9999999999999999
+000734.jpg,Female,94,94,70.5,1.0,Long Hair,Facial Hair,1.0
+000735.jpg,Male,104,104,78.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000736.jpg,Female,111,111,83.25,1.0,Long Hair,No Facial Hair,0.9999999999999999
+000737.jpg,Female,106,106,79.5,1.0,Long Hair,Facial Hair,1.0
+000738.jpg,Female,109,109,81.75,1.0,Long Hair,Facial Hair,1.0
+000739.jpg,Female,114,114,85.5,1.0,Long Hair,Facial Hair,1.0
+000740.jpg,Female,106,106,79.5,1.0,Long Hair,Facial Hair,1.0000000000000002
+000741.jpg,Female,95,95,71.25,1.0,Long Hair,Facial Hair,1.0
+000742.jpg,Male,115,115,86.25,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000743.jpg,Female,98,98,73.5,1.0,Long Hair,Facial Hair,1.0
+000744.jpg,Female,107,107,80.25,1.0,Long Hair,Facial Hair,1.0
+000745.jpg,Female,109,109,81.75,1.0,Long Hair,Facial Hair,1.0
+000746.jpg,Female,89,89,66.75,1.0,Long Hair,No Facial Hair,1.0
+000747.jpg,Male,100,100,75.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000748.jpg,Female,97,97,72.75,1.0,Long Hair,Facial Hair,0.9999999999999999
+000749.jpg,Male,73,73,54.75,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000750.jpg,Male,54,54,40.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000750.jpg,Female,115,115,86.25,1.0,Long Hair,Facial Hair,1.0
+000751.jpg,Female,95,95,71.25,1.0,Long Hair,No Facial Hair,1.0
+000752.jpg,Female,89,89,66.75,1.0,Long Hair,Facial Hair,1.0
+000753.jpg,Male,115,115,86.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000754.jpg,Female,107,107,80.25,1.0,Long Hair,Facial Hair,1.0
+000755.jpg,Female,97,97,72.75,1.0,Long Hair,Facial Hair,1.0
+000756.jpg,Male,102,102,76.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000757.jpg,Male,109,109,81.75,1.0,Short Hair or Bald,Facial Hair,1.0
+000758.jpg,Female,91,91,68.25,1.0,Long Hair,Facial Hair,1.0
+000759.jpg,Male,108,108,81.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000760.jpg,Female,105,105,78.75,1.0,Long Hair,Facial Hair,1.0
+000761.jpg,Female,107,107,80.25,1.0,Long Hair,Facial Hair,1.0
+000762.jpg,Male,98,98,73.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000763.jpg,Female,112,112,84.0,1.0,Long Hair,Facial Hair,0.9999999999999999
+000764.jpg,Female,98,98,73.5,1.0,Long Hair,Facial Hair,1.0
+000765.jpg,Female,102,102,76.5,1.0,Long Hair,Facial Hair,1.0
+000765.jpg,Female,91,91,68.25,1.0,Long Hair,Facial Hair,1.0
+000766.jpg,Female,86,86,64.5,1.0,Long Hair,No Facial Hair,1.0
+000767.jpg,Male,106,106,79.5,1.0,Short Hair or Bald,Facial Hair,1.0
+000768.jpg,Male,105,105,78.75,1.0,Short Hair or Bald,No Facial Hair,1.0
+000769.jpg,Female,112,112,84.0,1.0,Long Hair,Facial Hair,1.0
+000770.jpg,Female,76,76,57.0,1.0,Long Hair,No Facial Hair,0.9999999999999999
+000771.jpg,Female,103,103,77.25,1.0,Long Hair,Facial Hair,1.0
+000772.jpg,Female,95,95,71.25,1.0,Long Hair,Facial Hair,0.9999999999999999
+000773.jpg,Female,98,98,73.5,1.0,Long Hair,No Facial Hair,1.0
+000774.jpg,Female,107,107,80.25,1.0,Long Hair,Facial Hair,1.0
+000775.jpg,Female,102,102,76.5,1.0,Long Hair,No Facial Hair,0.9999999999999999
+000776.jpg,Male,106,106,79.5,1.0,Short Hair or Bald,Facial Hair,1.0
+000777.jpg,Female,111,111,83.25,1.0,Long Hair,No Facial Hair,1.0000000000000002
+000778.jpg,Female,109,109,81.75,1.0,Long Hair,Facial Hair,1.0
+000779.jpg,Male,102,102,76.5,1.0,Short Hair or Bald,Facial Hair,0.9999999999999999
+000780.jpg,Female,96,96,72.0,1.0,Long Hair,No Facial Hair,0.9999999999999999
+000781.jpg,Male,58,58,43.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000781.jpg,Female,104,104,78.0,1.0,Long Hair,Facial Hair,0.9999999999999999
+000782.jpg,Female,100,100,75.0,1.0,Long Hair,Facial Hair,1.0
+000783.jpg,Female,99,99,74.25,1.0,Long Hair,Facial Hair,0.9999999999999999
+000784.jpg,Male,108,108,81.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000785.jpg,Male,113,113,84.75,1.0,Short Hair or Bald,Facial Hair,1.0
+000786.jpg,Female,105,105,78.75,1.0,Long Hair,Facial Hair,1.0
+000787.jpg,Male,109,109,81.75,1.0,Short Hair or Bald,Facial Hair,1.0
+000787.jpg,Female,136,136,102.0,1.0,Long Hair,Facial Hair,1.0
+000788.jpg,Female,132,132,99.0,1.0,Long Hair,Facial Hair,1.0
+000789.jpg,Female,122,122,91.5,1.0,Long Hair,Facial Hair,1.0
+000790.jpg,Female,109,109,81.75,1.0,Long Hair,No Facial Hair,1.0
+000791.jpg,Male,115,115,86.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000792.jpg,Female,94,94,70.5,1.0,Long Hair,Facial Hair,0.9999999999999999
+000793.jpg,Female,100,100,75.0,1.0,Long Hair,Facial Hair,1.0
+000794.jpg,Female,106,106,79.5,1.0,Long Hair,Facial Hair,1.0
+000795.jpg,Male,107,107,80.25,1.0,Short Hair or Bald,Facial Hair,1.0
+000796.jpg,Female,111,111,83.25,1.0,Long Hair,Facial Hair,1.0
+000797.jpg,Male,104,104,78.0,1.0,Short Hair or Bald,Facial Hair,1.0
+000798.jpg,Male,115,115,86.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000799.jpg,Male,110,110,82.5,1.0,Short Hair or Bald,Facial Hair,1.0
+000800.jpg,Male,104,104,78.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000801.jpg,Female,104,104,78.0,1.0,Long Hair,Facial Hair,0.9999999999999999
+000802.jpg,Male,102,102,76.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000803.jpg,Female,100,100,75.0,1.0,Long Hair,No Facial Hair,1.0000000000000002
+000804.jpg,Male,109,109,81.75,1.0,Short Hair or Bald,Facial Hair,1.0
+000805.jpg,Female,112,112,84.0,1.0,Long Hair,No Facial Hair,0.9999999999999999
+000806.jpg,Male,103,103,77.25,1.0,Short Hair or Bald,Facial Hair,0.9999999999999999
+000807.jpg,Female,84,84,63.0,1.0,Long Hair,No Facial Hair,1.0
+000808.jpg,Female,98,98,73.5,1.0,Long Hair,Facial Hair,1.0
+000809.jpg,Male,109,109,81.75,1.0,Short Hair or Bald,No Facial Hair,1.0
+000810.jpg,Female,112,112,84.0,1.0,Long Hair,Facial Hair,0.9999999999999999
+000811.jpg,Male,101,101,75.75,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000812.jpg,Male,98,98,73.5,1.0,Short Hair or Bald,Facial Hair,1.0
+000813.jpg,Female,104,104,78.0,1.0,Long Hair,No Facial Hair,1.0
+000814.jpg,Female,109,109,81.75,1.0,Long Hair,Facial Hair,1.0
+000815.jpg,Female,140,140,105.0,1.0,Long Hair,Facial Hair,0.9999999999999999
+000816.jpg,Female,113,113,84.75,1.0,Long Hair,No Facial Hair,1.0
+000817.jpg,Male,109,109,81.75,1.0,Short Hair or Bald,Facial Hair,1.0
+000818.jpg,Female,116,116,87.0,1.0,Long Hair,No Facial Hair,0.9999999999999999
+000819.jpg,Male,111,111,83.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000821.jpg,Female,97,97,72.75,1.0,Long Hair,Facial Hair,1.0
+000822.jpg,Male,108,108,81.0,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000823.jpg,Female,111,111,83.25,1.0,Long Hair,Facial Hair,1.0
+000824.jpg,Male,109,109,81.75,1.0,Short Hair or Bald,Facial Hair,1.0
+000825.jpg,Female,108,108,81.0,1.0,Long Hair,No Facial Hair,1.0
+000826.jpg,Female,101,101,75.75,1.0,Long Hair,Facial Hair,1.0
+000827.jpg,Female,105,105,78.75,1.0,Long Hair,Facial Hair,1.0
+000828.jpg,Male,106,106,79.5,1.0,Short Hair or Bald,Facial Hair,1.0
+000829.jpg,Female,99,99,74.25,1.0,Long Hair,Facial Hair,1.0
+000830.jpg,Male,94,94,70.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000831.jpg,Female,106,106,79.5,1.0,Long Hair,Facial Hair,1.0
+000832.jpg,Female,96,96,72.0,1.0,Long Hair,Facial Hair,1.0
+000833.jpg,Female,125,125,93.75,1.0,Long Hair,Facial Hair,0.9999999999999999
+000834.jpg,Female,100,100,75.0,1.0,Long Hair,Facial Hair,0.9999999999999999
+000835.jpg,Male,108,108,81.0,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000836.jpg,Female,112,112,84.0,1.0,Long Hair,Facial Hair,1.0
+000837.jpg,Male,106,106,79.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000838.jpg,Female,102,102,76.5,1.0,Long Hair,Facial Hair,1.0
+000839.jpg,Male,103,103,77.25,1.0,Short Hair or Bald,Facial Hair,0.9999999999999999
+000840.jpg,Female,111,111,83.25,1.0,Long Hair,Facial Hair,0.9999999999999999
+000841.jpg,Female,103,103,77.25,1.0,Long Hair,Facial Hair,1.0
+000842.jpg,Female,102,102,76.5,1.0,Long Hair,No Facial Hair,1.0
+000843.jpg,Female,98,98,73.5,1.0,Long Hair,Facial Hair,1.0
+000844.jpg,Female,102,102,76.5,1.0,Long Hair,No Facial Hair,1.0
+000846.jpg,Male,116,116,87.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000847.jpg,Male,100,100,75.0,1.0,Short Hair or Bald,Facial Hair,1.0
+000848.jpg,Female,99,99,74.25,1.0,Long Hair,No Facial Hair,1.0
+000849.jpg,Female,105,105,78.75,1.0,Long Hair,No Facial Hair,0.9999999999999999
+000850.jpg,Male,100,100,75.0,1.0,Short Hair or Bald,Facial Hair,0.9999999999999999
+000851.jpg,Female,133,133,99.75,1.0,Long Hair,Facial Hair,1.0
+000851.jpg,Female,114,114,85.5,1.0,Long Hair,Facial Hair,0.9999999999999999
+000852.jpg,Female,126,126,94.5,1.0,Long Hair,Facial Hair,1.0
+000853.jpg,Male,92,92,69.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000854.jpg,Female,110,110,82.5,1.0,Long Hair,No Facial Hair,1.0
+000855.jpg,Female,92,92,69.0,1.0,Long Hair,Facial Hair,1.0
+000856.jpg,Male,113,113,84.75,1.0,Short Hair or Bald,No Facial Hair,1.0
+000857.jpg,Male,106,106,79.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000858.jpg,Male,98,98,73.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000859.jpg,Male,107,107,80.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000860.jpg,Female,102,102,76.5,1.0,Long Hair,Facial Hair,1.0
+000861.jpg,Male,109,109,81.75,1.0,Short Hair or Bald,Facial Hair,0.9999999999999999
+000862.jpg,Male,89,89,66.75,1.0,Short Hair or Bald,Facial Hair,1.0
+000863.jpg,Male,102,102,76.5,1.0,Short Hair or Bald,Facial Hair,0.9999999999999999
+000864.jpg,Male,119,119,89.25,1.0,Short Hair or Bald,Facial Hair,1.0000000000000002
+000865.jpg,Female,105,105,78.75,1.0,Long Hair,Facial Hair,1.0
+000866.jpg,Female,116,116,87.0,1.0,Long Hair,Facial Hair,1.0000000000000002
+000867.jpg,Female,114,114,85.5,1.0,Long Hair,Facial Hair,1.0
+000868.jpg,Female,92,92,69.0,1.0,Long Hair,Facial Hair,1.0
+000869.jpg,Male,103,103,77.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000870.jpg,Female,101,101,75.75,1.0,Long Hair,Facial Hair,1.0
+000871.jpg,Male,97,97,72.75,1.0,Short Hair or Bald,No Facial Hair,1.0
+000872.jpg,Male,102,102,76.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000873.jpg,Male,99,99,74.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000874.jpg,Female,101,101,75.75,1.0,Long Hair,Facial Hair,0.9999999999999999
+000875.jpg,Female,115,115,86.25,1.0,Long Hair,Facial Hair,1.0
+000876.jpg,Female,100,100,75.0,1.0,Long Hair,Facial Hair,1.0
+000877.jpg,Female,113,113,84.75,1.0,Long Hair,No Facial Hair,1.0
+000878.jpg,Female,85,85,63.75,1.0,Long Hair,No Facial Hair,1.0
+000879.jpg,Female,106,106,79.5,1.0,Long Hair,Facial Hair,1.0
+000880.jpg,Female,99,99,74.25,1.0,Long Hair,Facial Hair,1.0
+000881.jpg,Female,105,105,78.75,1.0,Long Hair,Facial Hair,1.0
+000882.jpg,Female,111,111,83.25,1.0,Long Hair,Facial Hair,1.0
+000883.jpg,Female,109,109,81.75,1.0,Long Hair,Facial Hair,0.9999999999999999
+000884.jpg,Female,97,97,72.75,1.0,Long Hair,Facial Hair,0.9999999999999999
+000885.jpg,Female,101,101,75.75,1.0,Long Hair,No Facial Hair,1.0
+000886.jpg,Male,104,104,78.0,1.0,Short Hair or Bald,Facial Hair,1.0
+000887.jpg,Female,106,106,79.5,1.0,Long Hair,Facial Hair,1.0
+000888.jpg,Male,144,144,108.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000889.jpg,Female,105,105,78.75,1.0,Long Hair,No Facial Hair,1.0
+000890.jpg,Male,112,112,84.0,1.0,Short Hair or Bald,Facial Hair,1.0
+000891.jpg,Male,102,102,76.5,1.0,Short Hair or Bald,Facial Hair,1.0000000000000002
+000892.jpg,Female,99,99,74.25,1.0,Long Hair,No Facial Hair,1.0
+000893.jpg,Female,101,101,75.75,1.0,Long Hair,Facial Hair,1.0
+000894.jpg,Male,113,113,84.75,1.0,Short Hair or Bald,No Facial Hair,1.0
+000895.jpg,Male,108,108,81.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000896.jpg,Female,108,108,81.0,1.0,Long Hair,Facial Hair,1.0
+000897.jpg,Male,90,90,67.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000898.jpg,Female,95,95,71.25,1.0,Long Hair,Facial Hair,1.0000000000000002
+000899.jpg,Male,111,111,83.25,1.0,Short Hair or Bald,Facial Hair,1.0
+000900.jpg,Female,112,112,84.0,1.0,Long Hair,Facial Hair,1.0
+000901.jpg,Male,114,114,85.5,1.0,Short Hair or Bald,Facial Hair,1.0
+000902.jpg,Male,110,110,82.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000903.jpg,Male,96,96,72.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000904.jpg,Female,106,106,79.5,1.0,Long Hair,Facial Hair,0.9999999999999999
+000905.jpg,Female,120,120,90.0,1.0,Long Hair,Facial Hair,1.0
+000906.jpg,Female,98,98,73.5,1.0,Long Hair,No Facial Hair,1.0
+000907.jpg,Female,126,126,94.5,1.0,Long Hair,Facial Hair,1.0
+000908.jpg,Female,110,110,82.5,1.0,Long Hair,Facial Hair,1.0
+000909.jpg,Male,107,107,80.25,1.0,Short Hair or Bald,Facial Hair,1.0
+000910.jpg,Male,109,109,81.75,1.0,Short Hair or Bald,Facial Hair,1.0
+000911.jpg,Female,112,112,84.0,1.0,Long Hair,No Facial Hair,0.9999999999999999
+000912.jpg,Female,111,111,83.25,1.0,Long Hair,Facial Hair,1.0
+000913.jpg,Male,105,105,78.75,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000914.jpg,Male,103,103,77.25,1.0,Short Hair or Bald,Facial Hair,1.0
+000915.jpg,Male,103,103,77.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000916.jpg,Female,115,115,86.25,1.0,Long Hair,Facial Hair,0.9999999999999999
+000917.jpg,Female,129,129,96.75,1.0,Long Hair,No Facial Hair,1.0
+000918.jpg,Male,105,105,78.75,1.0,Short Hair or Bald,Facial Hair,1.0
+000919.jpg,Female,100,100,75.0,1.0,Long Hair,Facial Hair,1.0
+000920.jpg,Male,104,104,78.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000921.jpg,Female,100,100,75.0,1.0,Long Hair,No Facial Hair,1.0
+000922.jpg,Female,100,100,75.0,1.0,Long Hair,Facial Hair,1.0
+000923.jpg,Male,107,107,80.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000924.jpg,Male,106,106,79.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000925.jpg,Male,61,61,45.75,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000925.jpg,Male,93,93,69.75,1.0,Short Hair or Bald,Facial Hair,0.9999999999999999
+000926.jpg,Female,107,107,80.25,1.0,Long Hair,Facial Hair,1.0
+000927.jpg,Female,115,115,86.25,1.0,Long Hair,Facial Hair,1.0
+000928.jpg,Male,104,104,78.0,1.0,Short Hair or Bald,Facial Hair,1.0
+000929.jpg,Female,105,105,78.75,1.0,Long Hair,Facial Hair,1.0
+000930.jpg,Female,102,102,76.5,1.0,Long Hair,Facial Hair,1.0
+000931.jpg,Female,103,103,77.25,1.0,Long Hair,Facial Hair,1.0000000000000002
+000932.jpg,Female,102,102,76.5,1.0,Long Hair,No Facial Hair,1.0
+000934.jpg,Female,108,108,81.0,1.0,Long Hair,Facial Hair,1.0000000000000002
+000935.jpg,Female,117,117,87.75,1.0,Long Hair,Facial Hair,1.0
+000936.jpg,Male,99,99,74.25,1.0,Short Hair or Bald,Facial Hair,1.0
+000937.jpg,Male,107,107,80.25,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000938.jpg,Male,102,102,76.5,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000939.jpg,Male,90,90,67.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000940.jpg,Male,108,108,81.0,1.0,Short Hair or Bald,Facial Hair,1.0
+000941.jpg,Male,106,106,79.5,1.0,Short Hair or Bald,Facial Hair,1.0
+000942.jpg,Female,112,112,84.0,1.0,Long Hair,Facial Hair,0.9999999999999999
+000943.jpg,Male,117,117,87.75,1.0,Short Hair or Bald,No Facial Hair,1.0
+000944.jpg,Male,111,111,83.25,1.0,Short Hair or Bald,Facial Hair,1.0
+000945.jpg,Female,113,113,84.75,1.0,Long Hair,Facial Hair,1.0
+000946.jpg,Male,117,117,87.75,1.0,Short Hair or Bald,No Facial Hair,1.0
+000948.jpg,Male,96,96,72.0,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000949.jpg,Female,127,127,95.25,1.0,Long Hair,Facial Hair,0.9999999999999999
+000950.jpg,Female,108,108,81.0,1.0,Long Hair,Facial Hair,1.0
+000951.jpg,Male,96,96,72.0,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000952.jpg,Male,108,108,81.0,1.0,Short Hair or Bald,Facial Hair,1.0000000000000002
+000953.jpg,Male,95,95,71.25,1.0,Short Hair or Bald,Facial Hair,1.0
+000954.jpg,Female,116,116,87.0,1.0,Long Hair,No Facial Hair,1.0
+000955.jpg,Female,116,116,87.0,1.0,Long Hair,No Facial Hair,1.0
+000955.jpg,Male,103,103,77.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000956.jpg,Male,105,105,78.75,1.0,Short Hair or Bald,Facial Hair,1.0
+000958.jpg,Male,97,97,72.75,1.0,Short Hair or Bald,No Facial Hair,1.0
+000959.jpg,Female,93,93,69.75,1.0,Long Hair,Facial Hair,0.9999999999999999
+000960.jpg,Male,112,112,84.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000961.jpg,Female,113,113,84.75,1.0,Long Hair,Facial Hair,1.0
+000962.jpg,Female,95,95,71.25,1.0,Long Hair,Facial Hair,1.0
+000963.jpg,Female,119,119,89.25,1.0,Long Hair,Facial Hair,1.0000000000000002
+000964.jpg,Female,106,106,79.5,1.0,Long Hair,Facial Hair,1.0
+000965.jpg,Male,103,103,77.25,1.0,Short Hair or Bald,Facial Hair,1.0
+000966.jpg,Female,118,118,88.5,1.0,Long Hair,Facial Hair,0.9999999999999998
+000967.jpg,Female,107,107,80.25,1.0,Long Hair,No Facial Hair,1.0
+000968.jpg,Male,119,119,89.25,1.0,Short Hair or Bald,No Facial Hair,1.0000000000000002
+000969.jpg,Female,98,98,73.5,1.0,Long Hair,No Facial Hair,1.0
+000970.jpg,Male,131,131,98.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000971.jpg,Female,110,110,82.5,1.0,Long Hair,Facial Hair,1.0
+000972.jpg,Female,108,108,81.0,1.0,Long Hair,Facial Hair,1.0
+000973.jpg,Female,106,106,79.5,1.0,Long Hair,No Facial Hair,1.0
+000974.jpg,Male,117,117,87.75,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999999
+000975.jpg,Male,108,108,81.0,1.0,Short Hair or Bald,No Facial Hair,1.0
+000976.jpg,Male,112,112,84.0,1.0,Short Hair or Bald,Facial Hair,1.0
+000977.jpg,Male,98,98,73.5,1.0,Short Hair or Bald,No Facial Hair,0.9999999999999998
+000978.jpg,Female,93,93,69.75,1.0,Long Hair,No Facial Hair,1.0
+000979.jpg,Female,87,87,65.25,1.0,Long Hair,No Facial Hair,1.0000000000000002
+000980.jpg,Male,106,106,79.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000981.jpg,Male,103,103,77.25,1.0,Short Hair or Bald,Facial Hair,1.0
+000982.jpg,Male,50,50,37.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000982.jpg,Male,93,93,69.75,1.0,Short Hair or Bald,No Facial Hair,1.0
+000984.jpg,Female,114,114,85.5,1.0,Long Hair,No Facial Hair,1.0
+000985.jpg,Male,110,110,82.5,1.0,Short Hair or Bald,Facial Hair,1.0
+000986.jpg,Male,114,114,85.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000987.jpg,Female,102,102,76.5,1.0,Long Hair,Facial Hair,1.0000000000000002
+000988.jpg,Female,107,107,80.25,1.0,Long Hair,Facial Hair,0.9999999999999999
+000989.jpg,Female,103,103,77.25,1.0,Long Hair,Facial Hair,1.0
+000990.jpg,Female,110,110,82.5,1.0,Long Hair,No Facial Hair,1.0
+000991.jpg,Female,110,110,82.5,1.0,Long Hair,Facial Hair,1.0
+000992.jpg,Female,101,101,75.75,1.0,Long Hair,No Facial Hair,1.0
+000993.jpg,Male,106,106,79.5,1.0,Short Hair or Bald,Facial Hair,1.0
+000994.jpg,Female,95,95,71.25,1.0,Long Hair,Facial Hair,1.0
+000995.jpg,Male,83,83,62.25,1.0,Short Hair or Bald,No Facial Hair,1.0
+000996.jpg,Male,114,114,85.5,1.0,Short Hair or Bald,No Facial Hair,1.0
+000997.jpg,Male,103,103,77.25,1.0,Short Hair or Bald,Facial Hair,1.0
+000998.jpg,Female,108,108,81.0,1.0,Long Hair,No Facial Hair,1.0
+000999.jpg,Female,102,102,76.5,1.0,Long Hair,Facial Hair,1.0
+001000.jpg,Female,110,110,82.5,1.0,Long Hair,Facial Hair,0.9999999999999999
